@@ -1,0 +1,2256 @@
+MKM MPI: 32 ranks, 31 solver workers
+5.646884471832882e+19
+5.646884221940373e+19
+60239287.90865564
+7.895408516519782e-10
+MKM converged on rank 15: cost=7.895408516519782e-10 -> stopping all ranks
+MKM final best cost: 7.895408516519782e-10
+MKM MPI: 32 ranks, 31 solver workers
+3.7387468420558506e-07
+1.0853448328953465e-09
+MKM converged on rank 31: cost=1.0853448328953465e-09 -> stopping all ranks
+MKM final best cost: 1.0853448328953465e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.588397263355381e-06
+3.980196284724728e-09
+MKM converged on rank 24: cost=3.980196284724728e-09 -> stopping all ranks
+MKM final best cost: 3.980196284724728e-09
+MKM MPI: 32 ranks, 31 solver workers
+3.950980073169883e-06
+1.2252570703900403e-07
+MKM converged on rank 16: cost=1.2252570703900403e-07 -> stopping all ranks
+MKM final best cost: 1.2252570703900403e-07
+MKM MPI: 32 ranks, 31 solver workers
+2.656805638562788e-10
+MKM final best cost: 2.656805638562788e-10
+MKM MPI: 32 ranks, 31 solver workers
+1.1671115962592869e-08
+MKM final best cost: 1.1671115962592869e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.2723930410740632e-06
+7.467045163577423e-11
+MKM converged on rank 25: cost=7.467045163577423e-11 -> stopping all ranks
+MKM final best cost: 7.467045163577423e-11
+MKM MPI: 32 ranks, 31 solver workers
+4.805648988288021e-07
+5.944625141280177e-08
+MKM converged on rank 20: cost=5.944625141280177e-08 -> stopping all ranks
+MKM final best cost: 5.944625141280177e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.6715052412560358e-07
+MKM final best cost: 1.6715052412560358e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.1940258356002634e-07
+MKM final best cost: 1.1940258356002634e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.3915284638310437e-07
+MKM final best cost: 1.3915284638310437e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.0645841538648337e-06
+7.416809589500731e-11
+MKM converged on rank 12: cost=7.416809589500731e-11 -> stopping all ranks
+MKM final best cost: 7.416809589500731e-11
+MKM MPI: 32 ranks, 31 solver workers
+2.271345733910156e-06
+8.041291326281522e-07
+3.223707820434927e-09
+MKM converged on rank 16: cost=3.223707820434927e-09 -> stopping all ranks
+MKM final best cost: 3.223707820434927e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.3049307098973854e-07
+MKM final best cost: 1.3049307098973854e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.4181410747209543e-08
+MKM final best cost: 1.4181410747209543e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.0033897580176328e-08
+MKM final best cost: 1.0033897580176328e-08
+MKM MPI: 32 ranks, 31 solver workers
+8.023159461432045e-09
+MKM final best cost: 8.023159461432045e-09
+MKM MPI: 32 ranks, 31 solver workers
+4.764489190661457e-11
+MKM final best cost: 4.764489190661457e-11
+MKM MPI: 32 ranks, 31 solver workers
+4.3966233099415144e-07
+3.310606347904835e-07
+1.8125175837929085e-07
+MKM converged on rank 1: cost=1.8125175837929085e-07 -> stopping all ranks
+MKM final best cost: 1.8125175837929085e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.0021774800487397e-06
+1.4789289658974388e-10
+MKM converged on rank 24: cost=1.4789289658974388e-10 -> stopping all ranks
+MKM final best cost: 1.4789289658974388e-10
+MKM MPI: 32 ranks, 31 solver workers
+1.3889666176906638e-06
+2.8526199637646076e-07
+MKM converged on rank 16: cost=2.8526199637646076e-07 -> stopping all ranks
+MKM final best cost: 2.8526199637646076e-07
+MKM MPI: 32 ranks, 31 solver workers
+7.175597876198151e-07
+4.9876122433718015e-08
+MKM converged on rank 1: cost=4.9876122433718015e-08 -> stopping all ranks
+MKM final best cost: 4.9876122433718015e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.1900611866511602e-06
+4.398729822755287e-07
+7.3854390675208085e-09
+MKM converged on rank 15: cost=7.3854390675208085e-09 -> stopping all ranks
+MKM final best cost: 7.3854390675208085e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.833015416040948e-07
+MKM final best cost: 1.833015416040948e-07
+MKM MPI: 32 ranks, 31 solver workers
+4.2515640507735874e-08
+MKM final best cost: 4.2515640507735874e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.3585475650263139e-08
+MKM final best cost: 1.3585475650263139e-08
+MKM MPI: 32 ranks, 31 solver workers
+7.629849982595304e-10
+MKM final best cost: 7.629849982595304e-10
+MKM MPI: 32 ranks, 31 solver workers
+1.422760818507307e-09
+MKM final best cost: 1.422760818507307e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.4072651087063852e-08
+MKM final best cost: 1.4072651087063852e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.6395131438238097e-06
+5.089075379783738e-07
+3.8378689221624266e-10
+MKM converged on rank 20: cost=3.8378689221624266e-10 -> stopping all ranks
+MKM final best cost: 3.8378689221624266e-10
+MKM MPI: 32 ranks, 31 solver workers
+8.203945281800688e-08
+MKM final best cost: 8.203945281800688e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.3571300816340366e-09
+MKM final best cost: 2.3571300816340366e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.6536673292338585e-10
+MKM final best cost: 1.6536673292338585e-10
+MKM MPI: 32 ranks, 31 solver workers
+2.240320983715346e-06
+6.661844018183967e-07
+1.7543308050939744e-10
+MKM converged on rank 5: cost=1.7543308050939744e-10 -> stopping all ranks
+MKM final best cost: 1.7543308050939744e-10
+MKM MPI: 32 ranks, 31 solver workers
+2.2913319734506912e-06
+2.1656417636945675e-06
+2.850349392521364e-07
+MKM converged on rank 13: cost=2.850349392521364e-07 -> stopping all ranks
+MKM final best cost: 2.850349392521364e-07
+MKM MPI: 32 ranks, 31 solver workers
+2.0675808611653348e-08
+MKM final best cost: 2.0675808611653348e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.3350563793776497e-07
+7.910891434238765e-08
+MKM converged on rank 8: cost=7.910891434238765e-08 -> stopping all ranks
+MKM final best cost: 7.910891434238765e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.073929124578437e-07
+MKM final best cost: 1.073929124578437e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.1760285388458586e-06
+7.049525582329791e-07
+6.943312307924771e-11
+MKM converged on rank 29: cost=6.943312307924771e-11 -> stopping all ranks
+MKM final best cost: 6.943312307924771e-11
+MKM MPI: 32 ranks, 31 solver workers
+7.09354773799526e-08
+MKM final best cost: 7.09354773799526e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.527246960942281e-08
+MKM final best cost: 1.527246960942281e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.739733350163882e-10
+MKM final best cost: 4.739733350163882e-10
+MKM MPI: 32 ranks, 31 solver workers
+1.4247863940984507e-07
+MKM final best cost: 1.4247863940984507e-07
+MKM MPI: 32 ranks, 31 solver workers
+7.684699702731889e-08
+MKM final best cost: 7.684699702731889e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.644382445130353e-07
+1.8494109560014123e-07
+MKM converged on rank 18: cost=1.8494109560014123e-07 -> stopping all ranks
+MKM final best cost: 1.8494109560014123e-07
+MKM MPI: 32 ranks, 31 solver workers
+2.399040952301218e-07
+MKM final best cost: 2.399040952301218e-07
+MKM MPI: 32 ranks, 31 solver workers
+9.416490713719795e-07
+2.678358011130225e-07
+MKM converged on rank 13: cost=2.678358011130225e-07 -> stopping all ranks
+MKM final best cost: 2.678358011130225e-07
+MKM MPI: 32 ranks, 31 solver workers
+7.972193389655348e-07
+3.2840867357434267e-07
+1.4634947380708497e-09
+MKM converged on rank 14: cost=1.4634947380708497e-09 -> stopping all ranks
+MKM final best cost: 1.4634947380708497e-09
+MKM MPI: 32 ranks, 31 solver workers
+3.0946788630403654e-10
+MKM final best cost: 3.0946788630403654e-10
+MKM MPI: 32 ranks, 31 solver workers
+9.947558073299918e-07
+9.944195462443217e-07
+9.890470993318432e-07
+9.75263380023072e-07
+9.466734068284537e-07
+5.773184806241913e-07
+4.213122829431014e-08
+MKM converged on rank 9: cost=4.213122829431014e-08 -> stopping all ranks
+MKM final best cost: 4.213122829431014e-08
+MKM MPI: 32 ranks, 31 solver workers
+3.9512151191901855e-07
+4.9066214198024555e-09
+MKM converged on rank 20: cost=4.9066214198024555e-09 -> stopping all ranks
+MKM final best cost: 4.9066214198024555e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.2684032343503606e-07
+MKM final best cost: 2.2684032343503606e-07
+MKM MPI: 32 ranks, 31 solver workers
+2.262355019850408e-08
+MKM final best cost: 2.262355019850408e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.887306254302835e-09
+MKM final best cost: 5.887306254302835e-09
+MKM MPI: 32 ranks, 31 solver workers
+4.4008237508590165e-08
+MKM final best cost: 4.4008237508590165e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.7474991076125385e-06
+1.6855760043038167e-06
+2.0363961216968535e-07
+MKM converged on rank 14: cost=2.0363961216968535e-07 -> stopping all ranks
+MKM final best cost: 2.0363961216968535e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.3243470366312516e-11
+MKM final best cost: 1.3243470366312516e-11
+MKM MPI: 32 ranks, 31 solver workers
+1.2900242818273564e-06
+3.3885439890086e-07
+1.977907195491501e-07
+MKM converged on rank 28: cost=1.977907195491501e-07 -> stopping all ranks
+MKM final best cost: 1.977907195491501e-07
+MKM MPI: 32 ranks, 31 solver workers
+3.8706663979728936e-08
+MKM final best cost: 3.8706663979728936e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.5191418204044827e-10
+MKM final best cost: 1.5191418204044827e-10
+MKM MPI: 32 ranks, 31 solver workers
+8.350541241562784e-08
+MKM final best cost: 8.350541241562784e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.415764691470116e-07
+4.934120667919711e-07
+5.7007321830474494e-08
+MKM converged on rank 22: cost=5.7007321830474494e-08 -> stopping all ranks
+MKM final best cost: 5.7007321830474494e-08
+MKM MPI: 32 ranks, 31 solver workers
+3.7176398414469222e-09
+MKM final best cost: 3.7176398414469222e-09
+MKM MPI: 32 ranks, 31 solver workers
+3.0007241498721726e-06
+3.1050156510741743e-07
+1.2770876984880677e-07
+MKM converged on rank 22: cost=1.2770876984880677e-07 -> stopping all ranks
+MKM final best cost: 1.2770876984880677e-07
+MKM MPI: 32 ranks, 31 solver workers
+6.44385063894901e-08
+MKM final best cost: 6.44385063894901e-08
+MKM MPI: 32 ranks, 31 solver workers
+9.893212526059823e-10
+MKM final best cost: 9.893212526059823e-10
+MKM MPI: 32 ranks, 31 solver workers
+4.662863680921343e-08
+MKM final best cost: 4.662863680921343e-08
+MKM MPI: 32 ranks, 31 solver workers
+6.693419569890466e-08
+MKM final best cost: 6.693419569890466e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.0034716407649974e-10
+MKM final best cost: 1.0034716407649974e-10
+MKM MPI: 32 ranks, 31 solver workers
+4.790903947322994e-07
+4.366026179251842e-07
+6.07940486190272e-10
+MKM converged on rank 21: cost=6.07940486190272e-10 -> stopping all ranks
+MKM final best cost: 6.07940486190272e-10
+MKM MPI: 32 ranks, 31 solver workers
+1.7123925190609577e-10
+MKM final best cost: 1.7123925190609577e-10
+MKM MPI: 32 ranks, 31 solver workers
+2.3032128356093533e-08
+MKM final best cost: 2.3032128356093533e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.762666504392449e-10
+MKM final best cost: 4.762666504392449e-10
+MKM MPI: 32 ranks, 31 solver workers
+4.2688074623256764e-07
+3.918678592813634e-08
+MKM converged on rank 21: cost=3.918678592813634e-08 -> stopping all ranks
+MKM final best cost: 3.918678592813634e-08
+MKM MPI: 32 ranks, 31 solver workers
+7.895408516519765e-10
+MKM final best cost: 7.895408516519765e-10
+MKM MPI: 32 ranks, 31 solver workers
+6.301588222521868e-08
+MKM final best cost: 6.301588222521868e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.385102722753562e-08
+MKM final best cost: 5.385102722753562e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.6600385892143134e-07
+MKM final best cost: 1.6600385892143134e-07
+MKM MPI: 32 ranks, 31 solver workers
+2.8598288443187535e-08
+MKM final best cost: 2.8598288443187535e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.592658221571921e-08
+MKM final best cost: 5.592658221571921e-08
+MKM MPI: 32 ranks, 31 solver workers
+7.895209185612564e-08
+MKM final best cost: 7.895209185612564e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.0682066327958818e-07
+MKM final best cost: 2.0682066327958818e-07
+MKM MPI: 32 ranks, 31 solver workers
+7.274306891965077e-07
+6.137531157646018e-07
+2.026773192986036e-09
+MKM converged on rank 16: cost=2.026773192986036e-09 -> stopping all ranks
+MKM final best cost: 2.026773192986036e-09
+MKM MPI: 32 ranks, 31 solver workers
+3.732109361329506e-08
+MKM final best cost: 3.732109361329506e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.270299819507286e-07
+MKM final best cost: 1.270299819507286e-07
+MKM MPI: 32 ranks, 31 solver workers
+4.002327023042069e-08
+MKM final best cost: 4.002327023042069e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.914410772328315e-07
+MKM final best cost: 2.914410772328315e-07
+MKM MPI: 32 ranks, 31 solver workers
+3.471551761487778e-08
+MKM final best cost: 3.471551761487778e-08
+MKM MPI: 32 ranks, 31 solver workers
+3.114370037685936e-09
+MKM final best cost: 3.114370037685936e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.5699545106671938e-09
+MKM final best cost: 2.5699545106671938e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.369089308342709e-08
+MKM final best cost: 2.369089308342709e-08
+MKM MPI: 32 ranks, 31 solver workers
+8.088070628986831e-07
+5.2321398250383466e-08
+MKM converged on rank 1: cost=5.2321398250383466e-08 -> stopping all ranks
+MKM final best cost: 5.2321398250383466e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.6740892916108504e-09
+MKM final best cost: 1.6740892916108504e-09
+MKM MPI: 32 ranks, 31 solver workers
+7.307746715490771e-09
+MKM final best cost: 7.307746715490771e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.9298402296768155e-08
+MKM final best cost: 2.9298402296768155e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.1972698254047175e-08
+MKM final best cost: 4.1972698254047175e-08
+MKM MPI: 32 ranks, 31 solver workers
+8.690433969636017e-08
+MKM final best cost: 8.690433969636017e-08
+MKM MPI: 32 ranks, 31 solver workers
+3.556120017426441e-08
+MKM final best cost: 3.556120017426441e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.4644780000692704e-07
+MKM final best cost: 1.4644780000692704e-07
+MKM MPI: 32 ranks, 31 solver workers
+8.972699274244753e-10
+MKM final best cost: 8.972699274244753e-10
+MKM MPI: 32 ranks, 31 solver workers
+1.1494946320463938e-08
+MKM final best cost: 1.1494946320463938e-08
+MKM MPI: 32 ranks, 31 solver workers
+6.3701075958151285e-06
+1.9247391595124775e-08
+MKM converged on rank 31: cost=1.9247391595124775e-08 -> stopping all ranks
+MKM final best cost: 1.9247391595124775e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.4231548855894943e-09
+MKM final best cost: 1.4231548855894943e-09
+MKM MPI: 32 ranks, 31 solver workers
+4.844305415336308e-09
+MKM final best cost: 4.844305415336308e-09
+MKM MPI: 32 ranks, 31 solver workers
+7.411462938942374e-09
+MKM final best cost: 7.411462938942374e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.3418406296497097e-09
+MKM final best cost: 2.3418406296497097e-09
+MKM MPI: 32 ranks, 31 solver workers
+7.350149708520089e-07
+4.865900618596073e-07
+2.1775395969068774e-08
+MKM converged on rank 15: cost=2.1775395969068774e-08 -> stopping all ranks
+MKM final best cost: 2.1775395969068774e-08
+MKM MPI: 32 ranks, 31 solver workers
+3.1658702659886785e-08
+MKM final best cost: 3.1658702659886785e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.3845666079443227e-08
+MKM final best cost: 1.3845666079443227e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.2146338361660853e-10
+MKM final best cost: 1.2146338361660853e-10
+MKM MPI: 32 ranks, 31 solver workers
+1.0016244844910891e-06
+1.7693639163238782e-07
+MKM converged on rank 1: cost=1.7693639163238782e-07 -> stopping all ranks
+MKM final best cost: 1.7693639163238782e-07
+MKM MPI: 32 ranks, 31 solver workers
+3.7066173025190105e-10
+MKM final best cost: 3.7066173025190105e-10
+MKM MPI: 32 ranks, 31 solver workers
+2.2081560565635995e-09
+MKM final best cost: 2.2081560565635995e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.1749589557557886e-08
+MKM final best cost: 1.1749589557557886e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.6068899135563225e-09
+MKM final best cost: 2.6068899135563225e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.1071212674355252e-06
+6.033298194661788e-07
+1.001133132774631e-08
+MKM converged on rank 13: cost=1.001133132774631e-08 -> stopping all ranks
+MKM final best cost: 1.001133132774631e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.400578179906384e-07
+5.6046325215667365e-08
+MKM converged on rank 21: cost=5.6046325215667365e-08 -> stopping all ranks
+MKM final best cost: 5.6046325215667365e-08
+MKM MPI: 32 ranks, 31 solver workers
+7.054582352041025e-07
+6.233950171587701e-07
+7.977072423815354e-08
+MKM converged on rank 13: cost=7.977072423815354e-08 -> stopping all ranks
+MKM final best cost: 7.977072423815354e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.0464874101695313e-07
+MKM final best cost: 1.0464874101695313e-07
+MKM MPI: 32 ranks, 31 solver workers
+9.137762511335063e-08
+MKM final best cost: 9.137762511335063e-08
+MKM MPI: 32 ranks, 31 solver workers
+3.9811369755944025e-09
+MKM final best cost: 3.9811369755944025e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.3940366774405836e-08
+MKM final best cost: 1.3940366774405836e-08
+MKM MPI: 32 ranks, 31 solver workers
+9.416276413104851e-07
+2.783028028981337e-07
+MKM converged on rank 26: cost=2.783028028981337e-07 -> stopping all ranks
+MKM final best cost: 2.783028028981337e-07
+MKM MPI: 32 ranks, 31 solver workers
+4.880932138643506e-07
+3.8826547932723835e-07
+1.2516110910165027e-07
+MKM converged on rank 27: cost=1.2516110910165027e-07 -> stopping all ranks
+MKM final best cost: 1.2516110910165027e-07
+MKM MPI: 32 ranks, 31 solver workers
+6.082545512786041e-07
+1.709443191688269e-07
+MKM converged on rank 2: cost=1.709443191688269e-07 -> stopping all ranks
+MKM final best cost: 1.709443191688269e-07
+MKM MPI: 32 ranks, 31 solver workers
+4.639140867454296e-11
+MKM final best cost: 4.639140867454296e-11
+MKM MPI: 32 ranks, 31 solver workers
+7.836460467369402e-11
+MKM final best cost: 7.836460467369402e-11
+MKM MPI: 32 ranks, 31 solver workers
+1.55959549017675e-07
+MKM final best cost: 1.55959549017675e-07
+MKM MPI: 32 ranks, 31 solver workers
+7.459723537758184e-09
+MKM final best cost: 7.459723537758184e-09
+MKM MPI: 32 ranks, 31 solver workers
+5.474764894383053e-07
+4.422742938606212e-07
+3.2861992014971385e-10
+MKM converged on rank 7: cost=3.2861992014971385e-10 -> stopping all ranks
+MKM final best cost: 3.2861992014971385e-10
+MKM MPI: 32 ranks, 31 solver workers
+3.3095320891556754e-06
+1.9031196087315593e-06
+4.7392130584336366e-08
+MKM converged on rank 3: cost=4.7392130584336366e-08 -> stopping all ranks
+MKM final best cost: 4.7392130584336366e-08
+MKM MPI: 32 ranks, 31 solver workers
+9.158910299211085e-09
+MKM final best cost: 9.158910299211085e-09
+MKM MPI: 32 ranks, 31 solver workers
+3.517527561265148e-08
+MKM final best cost: 3.517527561265148e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.020733660141082e-07
+2.923146070675865e-07
+MKM converged on rank 23: cost=2.923146070675865e-07 -> stopping all ranks
+MKM final best cost: 2.923146070675865e-07
+MKM MPI: 32 ranks, 31 solver workers
+6.013606260262903e-07
+5.442183264932268e-07
+4.6557269270802813e-08
+MKM converged on rank 29: cost=4.6557269270802813e-08 -> stopping all ranks
+MKM final best cost: 4.6557269270802813e-08
+MKM MPI: 32 ranks, 31 solver workers
+6.5034978518989456e-09
+MKM final best cost: 6.5034978518989456e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.649441510252294e-07
+MKM final best cost: 2.649441510252294e-07
+MKM MPI: 32 ranks, 31 solver workers
+8.242241908929282e-09
+MKM final best cost: 8.242241908929282e-09
+MKM MPI: 32 ranks, 31 solver workers
+9.527411687621166e-10
+MKM final best cost: 9.527411687621166e-10
+MKM MPI: 32 ranks, 31 solver workers
+1.439677132266856e-07
+MKM final best cost: 1.439677132266856e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.0536638596797859e-08
+MKM final best cost: 1.0536638596797859e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.1513455932436793e-08
+MKM final best cost: 5.1513455932436793e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.4186801738475094e-07
+MKM final best cost: 1.4186801738475094e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.0868712519392219e-07
+MKM final best cost: 1.0868712519392219e-07
+MKM MPI: 32 ranks, 31 solver workers
+2.9619331250920125e-06
+2.305469554871768e-08
+MKM converged on rank 8: cost=2.305469554871768e-08 -> stopping all ranks
+MKM final best cost: 2.305469554871768e-08
+MKM MPI: 32 ranks, 31 solver workers
+3.9630582393552097e-07
+3.352712926354779e-09
+MKM converged on rank 21: cost=3.352712926354779e-09 -> stopping all ranks
+MKM final best cost: 3.352712926354779e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.790042735499473e-08
+MKM final best cost: 2.790042735499473e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.883647659018591e-08
+MKM final best cost: 2.883647659018591e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.2721609348461673e-06
+5.23936255476058e-08
+MKM converged on rank 16: cost=5.23936255476058e-08 -> stopping all ranks
+MKM final best cost: 5.23936255476058e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.0468100562780168e-08
+MKM final best cost: 1.0468100562780168e-08
+MKM MPI: 32 ranks, 31 solver workers
+7.731204381248927e-08
+MKM final best cost: 7.731204381248927e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.0528484042731056e-06
+8.947020107923703e-07
+2.7236831521276222e-08
+MKM converged on rank 28: cost=2.7236831521276222e-08 -> stopping all ranks
+MKM final best cost: 2.7236831521276222e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.4177349154369717e-08
+MKM final best cost: 1.4177349154369717e-08
+MKM MPI: 32 ranks, 31 solver workers
+7.583326261305841e-09
+MKM final best cost: 7.583326261305841e-09
+MKM MPI: 32 ranks, 31 solver workers
+4.5572972198525217e-07
+3.271589339511567e-07
+9.624652756428111e-09
+MKM converged on rank 26: cost=9.624652756428111e-09 -> stopping all ranks
+MKM final best cost: 9.624652756428111e-09
+MKM MPI: 32 ranks, 31 solver workers
+8.322914213808224e-09
+MKM final best cost: 8.322914213808224e-09
+MKM MPI: 32 ranks, 31 solver workers
+3.280327657003832e-07
+1.4602910472942758e-07
+MKM converged on rank 11: cost=1.4602910472942758e-07 -> stopping all ranks
+MKM final best cost: 1.4602910472942758e-07
+MKM MPI: 32 ranks, 31 solver workers
+2.3917899640028775e-06
+1.2910991444885337e-06
+4.817397926028881e-07
+3.540565347072235e-08
+MKM converged on rank 17: cost=3.540565347072235e-08 -> stopping all ranks
+MKM final best cost: 3.540565347072235e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.7399520739397e-07
+1.9624426158173565e-07
+MKM converged on rank 10: cost=1.9624426158173565e-07 -> stopping all ranks
+MKM final best cost: 1.9624426158173565e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.3669870247586888e-10
+MKM final best cost: 1.3669870247586888e-10
+MKM MPI: 32 ranks, 31 solver workers
+3.546700651026012e-09
+MKM final best cost: 3.546700651026012e-09
+MKM MPI: 32 ranks, 31 solver workers
+7.90823285602364e-08
+MKM final best cost: 7.90823285602364e-08
+MKM MPI: 32 ranks, 31 solver workers
+8.865289119233062e-08
+MKM final best cost: 8.865289119233062e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.449021055034025e-06
+4.4855052316553e-06
+4.5544900171336177e-07
+8.71305002977903e-09
+MKM converged on rank 21: cost=8.71305002977903e-09 -> stopping all ranks
+MKM final best cost: 8.71305002977903e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.626323781785611e-06
+8.634092062606416e-09
+MKM converged on rank 3: cost=8.634092062606416e-09 -> stopping all ranks
+MKM final best cost: 8.634092062606416e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.999423315547362e-07
+MKM final best cost: 2.999423315547362e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.4529962979235776e-09
+MKM final best cost: 1.4529962979235776e-09
+MKM MPI: 32 ranks, 31 solver workers
+5.527863013139266e-07
+4.2561958709942115e-08
+MKM converged on rank 22: cost=4.2561958709942115e-08 -> stopping all ranks
+MKM final best cost: 4.2561958709942115e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.1395643586802582e-06
+4.466100644959985e-07
+5.805388470371745e-09
+MKM converged on rank 30: cost=5.805388470371745e-09 -> stopping all ranks
+MKM final best cost: 5.805388470371745e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.0621278126838618e-06
+2.147100389312255e-07
+MKM converged on rank 27: cost=2.147100389312255e-07 -> stopping all ranks
+MKM final best cost: 2.147100389312255e-07
+MKM MPI: 32 ranks, 31 solver workers
+3.748733612962551e-07
+2.1258033149705876e-07
+MKM converged on rank 23: cost=2.1258033149705876e-07 -> stopping all ranks
+MKM final best cost: 2.1258033149705876e-07
+MKM MPI: 32 ranks, 31 solver workers
+8.48421529408087e-09
+MKM final best cost: 8.48421529408087e-09
+MKM MPI: 32 ranks, 31 solver workers
+3.585254485349995e-07
+1.988734589188441e-07
+MKM converged on rank 1: cost=1.988734589188441e-07 -> stopping all ranks
+MKM final best cost: 1.988734589188441e-07
+MKM MPI: 32 ranks, 31 solver workers
+6.652752972629659e-07
+1.5402100601897268e-08
+MKM converged on rank 24: cost=1.5402100601897268e-08 -> stopping all ranks
+MKM final best cost: 1.5402100601897268e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.2813564360151386e-07
+MKM final best cost: 1.2813564360151386e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.0890404913616044e-07
+MKM final best cost: 1.0890404913616044e-07
+MKM MPI: 32 ranks, 31 solver workers
+6.289868127035185e-08
+MKM final best cost: 6.289868127035185e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.7625521851012324e-07
+MKM final best cost: 2.7625521851012324e-07
+MKM MPI: 32 ranks, 31 solver workers
+9.694914050337906e-08
+MKM final best cost: 9.694914050337906e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.381961621020175e-06
+9.553337745862529e-09
+MKM converged on rank 19: cost=9.553337745862529e-09 -> stopping all ranks
+MKM final best cost: 9.553337745862529e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.1406896606615082e-07
+MKM final best cost: 1.1406896606615082e-07
+MKM MPI: 32 ranks, 31 solver workers
+4.3827381055189365e-06
+4.292851752569245e-06
+1.9082269682617838e-06
+1.0191467228766151e-06
+8.208353686032282e-08
+MKM converged on rank 7: cost=8.208353686032282e-08 -> stopping all ranks
+MKM final best cost: 8.208353686032282e-08
+MKM MPI: 32 ranks, 31 solver workers
+3.243448556821409e-07
+2.1309015502972817e-07
+MKM converged on rank 11: cost=2.1309015502972817e-07 -> stopping all ranks
+MKM final best cost: 2.1309015502972817e-07
+MKM MPI: 32 ranks, 31 solver workers
+2.7771328607348246e-06
+1.8050174015176632e-08
+MKM converged on rank 26: cost=1.8050174015176632e-08 -> stopping all ranks
+MKM final best cost: 1.8050174015176632e-08
+MKM MPI: 32 ranks, 31 solver workers
+3.855108048568508e-08
+MKM final best cost: 3.855108048568508e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.681911255683116e-09
+MKM final best cost: 4.681911255683116e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.658683512349082e-08
+MKM final best cost: 1.658683512349082e-08
+MKM MPI: 32 ranks, 31 solver workers
+9.667380515737097e-12
+MKM final best cost: 9.667380515737097e-12
+MKM MPI: 32 ranks, 31 solver workers
+1.5729584710343742e-07
+MKM final best cost: 1.5729584710343742e-07
+MKM MPI: 32 ranks, 31 solver workers
+9.780554290414741e-07
+9.102807277876808e-07
+2.4275536114333946e-07
+MKM converged on rank 11: cost=2.4275536114333946e-07 -> stopping all ranks
+MKM final best cost: 2.4275536114333946e-07
+MKM MPI: 32 ranks, 31 solver workers
+2.3010999451329868e-07
+MKM final best cost: 2.3010999451329868e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.8687821561889045e-07
+MKM final best cost: 1.8687821561889045e-07
+MKM MPI: 32 ranks, 31 solver workers
+6.77938229203943e-07
+6.086857950687542e-07
+3.2269116115020963e-10
+MKM converged on rank 13: cost=3.2269116115020963e-10 -> stopping all ranks
+MKM final best cost: 3.2269116115020963e-10
+MKM MPI: 32 ranks, 31 solver workers
+2.810257609675164e-07
+MKM final best cost: 2.810257609675164e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.1252711041731378e-08
+MKM final best cost: 1.1252711041731378e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.234000892199372e-07
+MKM final best cost: 2.234000892199372e-07
+MKM MPI: 32 ranks, 31 solver workers
+2.2477340854511635e-08
+MKM final best cost: 2.2477340854511635e-08
+MKM MPI: 32 ranks, 31 solver workers
+6.844154407384477e-08
+MKM final best cost: 6.844154407384477e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.142251804482241e-06
+8.030459557497341e-07
+2.638544441771959e-08
+MKM converged on rank 18: cost=2.638544441771959e-08 -> stopping all ranks
+MKM final best cost: 2.638544441771959e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.574440690893001e-07
+MKM final best cost: 1.574440690893001e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.4000110484392732e-06
+2.3533536316251045e-07
+MKM converged on rank 10: cost=2.3533536316251045e-07 -> stopping all ranks
+MKM final best cost: 2.3533536316251045e-07
+MKM MPI: 32 ranks, 31 solver workers
+3.791135964852018e-06
+1.921065674602086e-06
+1.554097514474707e-06
+2.7338018136832084e-07
+MKM converged on rank 16: cost=2.7338018136832084e-07 -> stopping all ranks
+MKM final best cost: 2.7338018136832084e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.6714384663406372e-07
+MKM final best cost: 1.6714384663406372e-07
+MKM MPI: 32 ranks, 31 solver workers
+2.4206094417399184e-06
+3.65530701513484e-08
+MKM converged on rank 10: cost=3.65530701513484e-08 -> stopping all ranks
+MKM final best cost: 3.65530701513484e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.411627051832536e-06
+1.4951769502938962e-06
+5.989234433137494e-08
+MKM converged on rank 4: cost=5.989234433137494e-08 -> stopping all ranks
+MKM final best cost: 5.989234433137494e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.617897072714966e-09
+MKM final best cost: 2.617897072714966e-09
+MKM MPI: 32 ranks, 31 solver workers
+6.968260000962082e-09
+MKM final best cost: 6.968260000962082e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.0673749649921419e-07
+MKM final best cost: 1.0673749649921419e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.1271156894582515e-08
+MKM final best cost: 1.1271156894582515e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.6398818993330352e-08
+MKM final best cost: 1.6398818993330352e-08
+MKM MPI: 32 ranks, 31 solver workers
+6.229842961239427e-09
+MKM final best cost: 6.229842961239427e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.0558923548254066e-06
+1.1282511641812837e-07
+MKM converged on rank 10: cost=1.1282511641812837e-07 -> stopping all ranks
+MKM final best cost: 1.1282511641812837e-07
+MKM MPI: 32 ranks, 31 solver workers
+2.2703112375634936e-08
+MKM final best cost: 2.2703112375634936e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.9190647599377566e-08
+MKM final best cost: 2.9190647599377566e-08
+MKM MPI: 32 ranks, 31 solver workers
+3.5306068022641545e-06
+3.5306068022641473e-06
+1.1214425207937567e-06
+3.89619117147109e-07
+2.0682579065679658e-07
+MKM converged on rank 14: cost=2.0682579065679658e-07 -> stopping all ranks
+MKM final best cost: 2.0682579065679658e-07
+MKM MPI: 32 ranks, 31 solver workers
+3.2300895272604916e-07
+2.261723466711606e-07
+MKM converged on rank 15: cost=2.261723466711606e-07 -> stopping all ranks
+MKM final best cost: 2.261723466711606e-07
+MKM MPI: 32 ranks, 31 solver workers
+3.313139711377618e-08
+MKM final best cost: 3.313139711377618e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.1269092779499554e-07
+MKM final best cost: 2.1269092779499554e-07
+MKM MPI: 32 ranks, 31 solver workers
+5.963252407570877e-07
+5.963252407570825e-07
+2.6344688104588484e-07
+MKM converged on rank 20: cost=2.6344688104588484e-07 -> stopping all ranks
+MKM final best cost: 2.6344688104588484e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.3539020639948561e-06
+4.583736506223376e-08
+MKM converged on rank 5: cost=4.583736506223376e-08 -> stopping all ranks
+MKM final best cost: 4.583736506223376e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.7462254747981186e-09
+MKM final best cost: 1.7462254747981186e-09
+MKM MPI: 32 ranks, 31 solver workers
+7.345511095468564e-07
+2.7458665188854926e-07
+MKM converged on rank 16: cost=2.7458665188854926e-07 -> stopping all ranks
+MKM final best cost: 2.7458665188854926e-07
+MKM MPI: 32 ranks, 31 solver workers
+7.364848550344513e-07
+7.157802354143885e-11
+MKM converged on rank 29: cost=7.157802354143885e-11 -> stopping all ranks
+MKM final best cost: 7.157802354143885e-11
+MKM MPI: 32 ranks, 31 solver workers
+1.7419859830741568e-06
+1.0327121278561641e-07
+MKM converged on rank 2: cost=1.0327121278561641e-07 -> stopping all ranks
+MKM final best cost: 1.0327121278561641e-07
+MKM MPI: 32 ranks, 31 solver workers
+2.2006410051882143e-06
+9.322970192598153e-07
+9.322970142920529e-07
+7.730604244681845e-07
+2.9005335808367134e-09
+MKM converged on rank 24: cost=2.9005335808367134e-09 -> stopping all ranks
+MKM final best cost: 2.9005335808367134e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.4127360577023667e-09
+MKM final best cost: 1.4127360577023667e-09
+MKM MPI: 32 ranks, 31 solver workers
+5.184489064011426e-08
+MKM final best cost: 5.184489064011426e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.7458277954701624e-06
+1.7458277886619868e-06
+5.401144140373642e-08
+MKM converged on rank 10: cost=5.401144140373642e-08 -> stopping all ranks
+MKM final best cost: 5.401144140373642e-08
+MKM MPI: 32 ranks, 31 solver workers
+7.710204404899674e-07
+1.0246557130522918e-08
+MKM converged on rank 7: cost=1.0246557130522918e-08 -> stopping all ranks
+MKM final best cost: 1.0246557130522918e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.8585617309196976e-07
+MKM final best cost: 2.8585617309196976e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.9701852774955432e-08
+MKM final best cost: 1.9701852774955432e-08
+MKM MPI: 32 ranks, 31 solver workers
+6.180857015620118e-07
+3.764445492886549e-07
+3.764445429845788e-07
+6.231621449306619e-08
+MKM converged on rank 15: cost=6.231621449306619e-08 -> stopping all ranks
+MKM final best cost: 6.231621449306619e-08
+MKM MPI: 32 ranks, 31 solver workers
+6.412558152955329e-10
+MKM final best cost: 6.412558152955329e-10
+MKM MPI: 32 ranks, 31 solver workers
+1.1888582004987464e-07
+MKM final best cost: 1.1888582004987464e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.7591205363194868e-08
+MKM final best cost: 1.7591205363194868e-08
+MKM MPI: 32 ranks, 31 solver workers
+3.35887482612442e-08
+MKM final best cost: 3.35887482612442e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.335020227112559e-06
+2.3481910106726855e-07
+MKM converged on rank 13: cost=2.3481910106726855e-07 -> stopping all ranks
+MKM final best cost: 2.3481910106726855e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.0902657384532151e-08
+MKM final best cost: 1.0902657384532151e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.3473574476795242e-06
+1.028670277890001e-06
+1.0286689363034402e-06
+7.082439635148298e-07
+2.9102654685700273e-07
+MKM converged on rank 20: cost=2.9102654685700273e-07 -> stopping all ranks
+MKM final best cost: 2.9102654685700273e-07
+MKM MPI: 32 ranks, 31 solver workers
+4.240361526072536e-06
+3.0234256027037256e-06
+1.1075544908798544e-07
+MKM converged on rank 26: cost=1.1075544908798544e-07 -> stopping all ranks
+MKM final best cost: 1.1075544908798544e-07
+MKM MPI: 32 ranks, 31 solver workers
+5.059099008471046e-07
+4.484800779337863e-07
+1.3396057477776265e-07
+MKM converged on rank 18: cost=1.3396057477776265e-07 -> stopping all ranks
+MKM final best cost: 1.3396057477776265e-07
+MKM MPI: 32 ranks, 31 solver workers
+6.633623904686348e-07
+4.898686086364111e-08
+MKM converged on rank 1: cost=4.898686086364111e-08 -> stopping all ranks
+MKM final best cost: 4.898686086364111e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.8576418369135269e-06
+4.5208385723708354e-07
+1.0698966341312566e-07
+MKM converged on rank 30: cost=1.0698966341312566e-07 -> stopping all ranks
+MKM final best cost: 1.0698966341312566e-07
+MKM MPI: 32 ranks, 31 solver workers
+2.015061611381866e-07
+MKM final best cost: 2.015061611381866e-07
+MKM MPI: 32 ranks, 31 solver workers
+2.1297517912893184e-07
+MKM final best cost: 2.1297517912893184e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.602755674044803e-08
+MKM final best cost: 1.602755674044803e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.4271130621242385e-07
+MKM final best cost: 2.4271130621242385e-07
+MKM MPI: 32 ranks, 31 solver workers
+2.039870186497789e-09
+MKM final best cost: 2.039870186497789e-09
+MKM MPI: 32 ranks, 31 solver workers
+6.754200900898009e-07
+1.4945693384300415e-07
+MKM converged on rank 13: cost=1.4945693384300415e-07 -> stopping all ranks
+MKM final best cost: 1.4945693384300415e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.287374975076803e-07
+MKM final best cost: 1.287374975076803e-07
+MKM MPI: 32 ranks, 31 solver workers
+3.963186383730525e-07
+3.9621368564573297e-07
+2.0876212891412694e-07
+MKM converged on rank 23: cost=2.0876212891412694e-07 -> stopping all ranks
+MKM final best cost: 2.0876212891412694e-07
+MKM MPI: 32 ranks, 31 solver workers
+3.217944037114826e-07
+2.1954875264898842e-07
+MKM converged on rank 24: cost=2.1954875264898842e-07 -> stopping all ranks
+MKM final best cost: 2.1954875264898842e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.0778034718226757e-06
+1.0679642225575482e-06
+7.491575686288776e-07
+5.715875328491139e-12
+MKM converged on rank 14: cost=5.715875328491139e-12 -> stopping all ranks
+MKM final best cost: 5.715875328491139e-12
+MKM MPI: 32 ranks, 31 solver workers
+2.4391471206087214e-07
+MKM final best cost: 2.4391471206087214e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.0416254673846631e-07
+MKM final best cost: 1.0416254673846631e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.0410122872407514e-06
+1.087384533212348e-07
+MKM converged on rank 22: cost=1.087384533212348e-07 -> stopping all ranks
+MKM final best cost: 1.087384533212348e-07
+MKM MPI: 32 ranks, 31 solver workers
+5.112993649209207e-06
+4.5370414650133106e-07
+1.3120806838322325e-07
+MKM converged on rank 8: cost=1.3120806838322325e-07 -> stopping all ranks
+MKM final best cost: 1.3120806838322325e-07
+MKM MPI: 32 ranks, 31 solver workers
+9.291776966307565e-09
+MKM final best cost: 9.291776966307565e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.696490784934206e-07
+MKM final best cost: 2.696490784934206e-07
+MKM MPI: 32 ranks, 31 solver workers
+2.2789313357223465e-06
+2.031119105534061e-06
+1.5688275009280666e-06
+1.944315424991156e-09
+MKM converged on rank 24: cost=1.944315424991156e-09 -> stopping all ranks
+MKM final best cost: 1.944315424991156e-09
+MKM MPI: 32 ranks, 31 solver workers
+7.847250253564013e-07
+3.8146900168307986e-08
+MKM converged on rank 13: cost=3.8146900168307986e-08 -> stopping all ranks
+MKM final best cost: 3.8146900168307986e-08
+MKM MPI: 32 ranks, 31 solver workers
+7.893134908203944e-07
+3.9187137251351706e-08
+MKM converged on rank 13: cost=3.9187137251351706e-08 -> stopping all ranks
+MKM final best cost: 3.9187137251351706e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.2234709890578743e-06
+5.70336637235023e-07
+1.9783883373741003e-07
+MKM converged on rank 2: cost=1.9783883373741003e-07 -> stopping all ranks
+MKM final best cost: 1.9783883373741003e-07
+MKM MPI: 32 ranks, 31 solver workers
+8.266581360682364e-11
+MKM final best cost: 8.266581360682364e-11
+MKM MPI: 32 ranks, 31 solver workers
+1.834899460805544e-07
+MKM final best cost: 1.834899460805544e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.1731417386609634e-07
+MKM final best cost: 1.1731417386609634e-07
+MKM MPI: 32 ranks, 31 solver workers
+3.011253520834348e-06
+1.8826767192412692e-06
+1.2547769201756026e-07
+MKM converged on rank 1: cost=1.2547769201756026e-07 -> stopping all ranks
+MKM final best cost: 1.2547769201756026e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.4754084426808652e-06
+3.2009799342254004e-08
+MKM converged on rank 4: cost=3.2009799342254004e-08 -> stopping all ranks
+MKM final best cost: 3.2009799342254004e-08
+MKM MPI: 32 ranks, 31 solver workers
+7.358827213360649e-07
+7.356745133164279e-07
+2.627270520740143e-07
+MKM converged on rank 17: cost=2.627270520740143e-07 -> stopping all ranks
+MKM final best cost: 2.627270520740143e-07
+MKM MPI: 32 ranks, 31 solver workers
+3.097791434246764e-08
+MKM final best cost: 3.097791434246764e-08
+MKM MPI: 32 ranks, 31 solver workers
+3.107225575716687e-07
+1.7680990132951504e-08
+MKM converged on rank 14: cost=1.7680990132951504e-08 -> stopping all ranks
+MKM final best cost: 1.7680990132951504e-08
+MKM MPI: 32 ranks, 31 solver workers
+3.011328771776135e-07
+1.5695553517422924e-08
+MKM converged on rank 8: cost=1.5695553517422924e-08 -> stopping all ranks
+MKM final best cost: 1.5695553517422924e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.462507125703374e-06
+3.261364279558198e-06
+2.133749833211007e-06
+2.133748430013252e-06
+6.347128252491856e-09
+MKM converged on rank 11: cost=6.347128252491856e-09 -> stopping all ranks
+MKM final best cost: 6.347128252491856e-09
+MKM MPI: 32 ranks, 31 solver workers
+7.13147762059723e-06
+8.914146379513266e-07
+1.9095274865631034e-07
+MKM converged on rank 16: cost=1.9095274865631034e-07 -> stopping all ranks
+MKM final best cost: 1.9095274865631034e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.4078868224091011e-08
+MKM final best cost: 1.4078868224091011e-08
+MKM MPI: 32 ranks, 31 solver workers
+9.493146318170852e-06
+7.484754838650753e-06
+6.92104182262628e-10
+MKM converged on rank 31: cost=6.92104182262628e-10 -> stopping all ranks
+MKM final best cost: 6.92104182262628e-10
+MKM MPI: 32 ranks, 31 solver workers
+1.1135769067319056e-06
+3.7869005866467936e-10
+MKM converged on rank 28: cost=3.7869005866467936e-10 -> stopping all ranks
+MKM final best cost: 3.7869005866467936e-10
+MKM MPI: 32 ranks, 31 solver workers
+9.943734584628323e-10
+MKM final best cost: 9.943734584628323e-10
+MKM MPI: 32 ranks, 31 solver workers
+2.0653591721936134e-06
+4.051355300201204e-07
+4.038646653505738e-07
+1.6068018698275515e-07
+MKM converged on rank 29: cost=1.6068018698275515e-07 -> stopping all ranks
+MKM final best cost: 1.6068018698275515e-07
+MKM MPI: 32 ranks, 31 solver workers
+3.441354528473664e-07
+1.0755289940814419e-08
+MKM converged on rank 18: cost=1.0755289940814419e-08 -> stopping all ranks
+MKM final best cost: 1.0755289940814419e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.5035684675422817e-06
+6.808675795512577e-08
+MKM converged on rank 4: cost=6.808675795512577e-08 -> stopping all ranks
+MKM final best cost: 6.808675795512577e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.3324778491606495e-07
+MKM final best cost: 2.3324778491606495e-07
+MKM MPI: 32 ranks, 31 solver workers
+5.623533956401975e-06
+2.035017581998929e-06
+2.035010612218719e-06
+5.416969905549087e-07
+4.161073877895794e-07
+1.5279912276319996e-07
+MKM converged on rank 18: cost=1.5279912276319996e-07 -> stopping all ranks
+MKM final best cost: 1.5279912276319996e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.5251256448609555e-06
+2.4151578788975536e-07
+MKM converged on rank 10: cost=2.4151578788975536e-07 -> stopping all ranks
+MKM final best cost: 2.4151578788975536e-07
+MKM MPI: 32 ranks, 31 solver workers
+4.151022441849263e-09
+MKM final best cost: 4.151022441849263e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.810674844846865e-06
+9.598168721540606e-08
+MKM converged on rank 18: cost=9.598168721540606e-08 -> stopping all ranks
+MKM final best cost: 9.598168721540606e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.0415034961966756e-07
+MKM final best cost: 1.0415034961966756e-07
+MKM MPI: 32 ranks, 31 solver workers
+4.3150975703150766e-07
+1.1312055109880812e-09
+MKM converged on rank 30: cost=1.1312055109880812e-09 -> stopping all ranks
+MKM final best cost: 1.1312055109880812e-09
+MKM MPI: 32 ranks, 31 solver workers
+6.133154325975703e-07
+3.5751164797581194e-07
+6.387476307278035e-08
+MKM converged on rank 11: cost=6.387476307278035e-08 -> stopping all ranks
+MKM final best cost: 6.387476307278035e-08
+MKM MPI: 32 ranks, 31 solver workers
+8.831346159890693e-06
+6.515318610990049e-06
+2.3126823099058914e-07
+MKM converged on rank 20: cost=2.3126823099058914e-07 -> stopping all ranks
+MKM final best cost: 2.3126823099058914e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.1050581839735589e-07
+MKM final best cost: 1.1050581839735589e-07
+MKM MPI: 32 ranks, 31 solver workers
+2.5732861890362932e-08
+MKM final best cost: 2.5732861890362932e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.549106212688051e-06
+2.258360450663785e-07
+MKM converged on rank 2: cost=2.258360450663785e-07 -> stopping all ranks
+MKM final best cost: 2.258360450663785e-07
+MKM MPI: 32 ranks, 31 solver workers
+7.82220123956911e-07
+4.014399388032883e-08
+MKM converged on rank 22: cost=4.014399388032883e-08 -> stopping all ranks
+MKM final best cost: 4.014399388032883e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.6475146699159284e-07
+MKM final best cost: 2.6475146699159284e-07
+MKM MPI: 32 ranks, 31 solver workers
+2.068766681596287e-06
+2.0684637807956876e-06
+5.590391866735804e-07
+3.2620113569851664e-09
+MKM converged on rank 25: cost=3.2620113569851664e-09 -> stopping all ranks
+MKM final best cost: 3.2620113569851664e-09
+MKM MPI: 32 ranks, 31 solver workers
+3.5427772879002216e-07
+9.088294835389422e-09
+MKM converged on rank 30: cost=9.088294835389422e-09 -> stopping all ranks
+MKM final best cost: 9.088294835389422e-09
+MKM MPI: 32 ranks, 31 solver workers
+4.799941559751725e-08
+MKM final best cost: 4.799941559751725e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.799266211117039e-08
+MKM final best cost: 5.799266211117039e-08
+MKM MPI: 32 ranks, 31 solver workers
+8.22064435506344e-08
+MKM final best cost: 8.22064435506344e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.906773654686164e-08
+MKM final best cost: 1.906773654686164e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.3067443214624793e-08
+MKM final best cost: 1.3067443214624793e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.2305165030113414e-08
+MKM final best cost: 1.2305165030113414e-08
+MKM MPI: 32 ranks, 31 solver workers
+8.846754201384762e-07
+8.846735751745897e-07
+6.249468288757866e-08
+MKM converged on rank 9: cost=6.249468288757866e-08 -> stopping all ranks
+MKM final best cost: 6.249468288757866e-08
+MKM MPI: 32 ranks, 31 solver workers
+6.471300947491621e-06
+1.3521206794554438e-06
+8.25904094947278e-07
+2.2304313788447973e-07
+MKM converged on rank 12: cost=2.2304313788447973e-07 -> stopping all ranks
+MKM final best cost: 2.2304313788447973e-07
+MKM MPI: 32 ranks, 31 solver workers
+6.453691174521145e-08
+MKM final best cost: 6.453691174521145e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.6289769477273857e-07
+4.628976877719946e-07
+4.627885957680843e-07
+1.0357669789549655e-10
+MKM converged on rank 26: cost=1.0357669789549655e-10 -> stopping all ranks
+MKM final best cost: 1.0357669789549655e-10
+MKM MPI: 32 ranks, 31 solver workers
+1.0779445734147684e-07
+MKM final best cost: 1.0779445734147684e-07
+MKM MPI: 32 ranks, 31 solver workers
+4.542644851459257e-07
+4.542641437397052e-07
+2.97079125694374e-10
+MKM converged on rank 19: cost=2.97079125694374e-10 -> stopping all ranks
+MKM final best cost: 2.97079125694374e-10
+MKM MPI: 32 ranks, 31 solver workers
+3.411867379736933e-08
+MKM final best cost: 3.411867379736933e-08
+MKM MPI: 32 ranks, 31 solver workers
+8.556038839096143e-07
+2.0798614108905578e-07
+MKM converged on rank 14: cost=2.0798614108905578e-07 -> stopping all ranks
+MKM final best cost: 2.0798614108905578e-07
+MKM MPI: 32 ranks, 31 solver workers
+9.427772426189551e-09
+MKM final best cost: 9.427772426189551e-09
+MKM MPI: 32 ranks, 31 solver workers
+8.269919919465169e-08
+MKM final best cost: 8.269919919465169e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.1532367673238952e-07
+MKM final best cost: 1.1532367673238952e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.9672699202616414e-07
+MKM final best cost: 1.9672699202616414e-07
+MKM MPI: 32 ranks, 31 solver workers
+9.870458199288313e-07
+1.5020777654565116e-07
+MKM converged on rank 8: cost=1.5020777654565116e-07 -> stopping all ranks
+MKM final best cost: 1.5020777654565116e-07
+MKM MPI: 32 ranks, 31 solver workers
+5.8381641838120626e-08
+MKM final best cost: 5.8381641838120626e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.390140349066356e-07
+1.9058790589649712e-09
+MKM converged on rank 17: cost=1.9058790589649712e-09 -> stopping all ranks
+MKM final best cost: 1.9058790589649712e-09
+MKM MPI: 32 ranks, 31 solver workers
+4.718906579450904e-08
+MKM final best cost: 4.718906579450904e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.7306686978249996e-06
+3.9077014495379816e-07
+3.9064442323372324e-07
+3.9064379244607714e-07
+3.906353694514211e-07
+4.295144939492287e-09
+MKM converged on rank 5: cost=4.295144939492287e-09 -> stopping all ranks
+MKM final best cost: 4.295144939492287e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.2907688905868472e-07
+MKM final best cost: 1.2907688905868472e-07
+MKM MPI: 32 ranks, 31 solver workers
+3.1010151544825714e-07
+1.786748628512655e-08
+MKM converged on rank 18: cost=1.786748628512655e-08 -> stopping all ranks
+MKM final best cost: 1.786748628512655e-08
+MKM MPI: 32 ranks, 31 solver workers
+6.65851116969728e-08
+MKM final best cost: 6.65851116969728e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.5548599561933794e-08
+MKM final best cost: 1.5548599561933794e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.3554370240905085e-06
+4.701745697947878e-08
+MKM converged on rank 13: cost=4.701745697947878e-08 -> stopping all ranks
+MKM final best cost: 4.701745697947878e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.6863977267845907e-08
+MKM final best cost: 1.6863977267845907e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.700403965680734e-07
+5.700403965680382e-07
+4.157598959300842e-09
+MKM converged on rank 5: cost=4.157598959300842e-09 -> stopping all ranks
+MKM final best cost: 4.157598959300842e-09
+MKM MPI: 32 ranks, 31 solver workers
+4.0647337138150794e-08
+MKM final best cost: 4.0647337138150794e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.283585398304899e-07
+MKM final best cost: 2.283585398304899e-07
+MKM MPI: 32 ranks, 31 solver workers
+6.497236385884956e-09
+MKM final best cost: 6.497236385884956e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.4058167109599527e-08
+MKM final best cost: 1.4058167109599527e-08
+MKM MPI: 32 ranks, 31 solver workers
+7.106559324390636e-08
+MKM final best cost: 7.106559324390636e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.2205105285299508e-09
+MKM final best cost: 1.2205105285299508e-09
+MKM MPI: 32 ranks, 31 solver workers
+9.217328703279523e-09
+MKM final best cost: 9.217328703279523e-09
+MKM MPI: 32 ranks, 31 solver workers
+9.153147331281708e-07
+1.8005509556132538e-07
+MKM converged on rank 16: cost=1.8005509556132538e-07 -> stopping all ranks
+MKM final best cost: 1.8005509556132538e-07
+MKM MPI: 32 ranks, 31 solver workers
+2.258208602713212e-06
+6.597042289974754e-07
+6.596652894565927e-07
+1.4804376733293737e-08
+MKM converged on rank 22: cost=1.4804376733293737e-08 -> stopping all ranks
+MKM final best cost: 1.4804376733293737e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.7569313431760156e-08
+MKM final best cost: 1.7569313431760156e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.1090680251099053e-07
+MKM final best cost: 1.1090680251099053e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.1420430117719849e-07
+MKM final best cost: 1.1420430117719849e-07
+MKM MPI: 32 ranks, 31 solver workers
+6.828837533954759e-11
+MKM final best cost: 6.828837533954759e-11
+MKM MPI: 32 ranks, 31 solver workers
+1.4504363775948907e-08
+MKM final best cost: 1.4504363775948907e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.062502237333546e-07
+MKM final best cost: 2.062502237333546e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.2602249524620041e-08
+MKM final best cost: 1.2602249524620041e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.876321111171188e-09
+MKM final best cost: 4.876321111171188e-09
+MKM MPI: 32 ranks, 31 solver workers
+4.472100200354936e-08
+MKM final best cost: 4.472100200354936e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.723697064343567e-08
+MKM final best cost: 4.723697064343567e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.4976084451661408e-08
+MKM final best cost: 1.4976084451661408e-08
+MKM MPI: 32 ranks, 31 solver workers
+7.497201382306837e-07
+3.078111560594079e-08
+MKM converged on rank 21: cost=3.078111560594079e-08 -> stopping all ranks
+MKM final best cost: 3.078111560594079e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.2213919661352001e-08
+MKM final best cost: 1.2213919661352001e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.981970665465083e-07
+2.344563008597671e-10
+MKM converged on rank 19: cost=2.344563008597671e-10 -> stopping all ranks
+MKM final best cost: 2.344563008597671e-10
+MKM MPI: 32 ranks, 31 solver workers
+1.043879882039162e-07
+MKM final best cost: 1.043879882039162e-07
+MKM MPI: 32 ranks, 31 solver workers
+4.015079837468666e-07
+4.014841734469808e-07
+3.2363803517506563e-09
+MKM converged on rank 27: cost=3.2363803517506563e-09 -> stopping all ranks
+MKM final best cost: 3.2363803517506563e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.132852102081399e-10
+MKM final best cost: 2.132852102081399e-10
+MKM MPI: 32 ranks, 31 solver workers
+4.29770957876235e-08
+MKM final best cost: 4.29770957876235e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.864979928597833e-08
+MKM final best cost: 1.864979928597833e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.000085561824691e-08
+MKM final best cost: 4.000085561824691e-08
+MKM MPI: 32 ranks, 31 solver workers
+7.806999495120958e-08
+MKM final best cost: 7.806999495120958e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.576194854413279e-06
+2.1763896901937122e-07
+MKM converged on rank 11: cost=2.1763896901937122e-07 -> stopping all ranks
+MKM final best cost: 2.1763896901937122e-07
+MKM MPI: 32 ranks, 31 solver workers
+3.037711952268353e-09
+MKM final best cost: 3.037711952268353e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.8738075670430426e-08
+MKM final best cost: 2.8738075670430426e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.0916471274826051e-09
+MKM final best cost: 1.0916471274826051e-09
+MKM MPI: 32 ranks, 31 solver workers
+4.441661362400074e-10
+MKM final best cost: 4.441661362400074e-10
+MKM MPI: 32 ranks, 31 solver workers
+4.921997574289902e-09
+MKM final best cost: 4.921997574289902e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.5207415562285675e-07
+MKM final best cost: 1.5207415562285675e-07
+MKM MPI: 32 ranks, 31 solver workers
+4.0024139139675484e-07
+4.002405061106748e-07
+3.350972709441032e-09
+MKM converged on rank 20: cost=3.350972709441032e-09 -> stopping all ranks
+MKM final best cost: 3.350972709441032e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.070945981477011e-09
+MKM final best cost: 2.070945981477011e-09
+MKM MPI: 32 ranks, 31 solver workers
+5.877035267154386e-08
+MKM final best cost: 5.877035267154386e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.2279602585949376e-08
+MKM final best cost: 5.2279602585949376e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.088962833571814e-07
+MKM final best cost: 1.088962833571814e-07
+MKM MPI: 32 ranks, 31 solver workers
+3.0512960792381943e-07
+1.9477087831053705e-08
+MKM converged on rank 1: cost=1.9477087831053705e-08 -> stopping all ranks
+MKM final best cost: 1.9477087831053705e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.807572637322468e-08
+MKM final best cost: 1.807572637322468e-08
+MKM MPI: 32 ranks, 31 solver workers
+3.027838216561256e-08
+MKM final best cost: 3.027838216561256e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.458897660246494e-08
+MKM final best cost: 4.458897660246494e-08
+MKM MPI: 32 ranks, 31 solver workers
+7.796119435475496e-08
+MKM final best cost: 7.796119435475496e-08
+MKM MPI: 32 ranks, 31 solver workers
+6.218984088002234e-08
+MKM final best cost: 6.218984088002234e-08
+MKM MPI: 32 ranks, 31 solver workers
+8.61617074978247e-09
+MKM final best cost: 8.61617074978247e-09
+MKM MPI: 32 ranks, 31 solver workers
+6.001078286794248e-08
+MKM final best cost: 6.001078286794248e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.706982836340057e-08
+MKM final best cost: 4.706982836340057e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.005610605468403e-08
+MKM final best cost: 2.005610605468403e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.974977796804583e-08
+MKM final best cost: 4.974977796804583e-08
+MKM MPI: 32 ranks, 31 solver workers
+3.4594188647827477e-07
+1.0473121692539246e-08
+MKM converged on rank 6: cost=1.0473121692539246e-08 -> stopping all ranks
+MKM final best cost: 1.0473121692539246e-08
+MKM MPI: 32 ranks, 31 solver workers
+8.011088470659422e-09
+MKM final best cost: 8.011088470659422e-09
+MKM MPI: 32 ranks, 31 solver workers
+3.266134895090414e-08
+MKM final best cost: 3.266134895090414e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.4834740930787126e-08
+MKM final best cost: 5.4834740930787126e-08
+MKM MPI: 32 ranks, 31 solver workers
+6.527141651275606e-08
+MKM final best cost: 6.527141651275606e-08
+MKM MPI: 32 ranks, 31 solver workers
+7.769843857731882e-08
+MKM final best cost: 7.769843857731882e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.0103249684643796e-07
+MKM final best cost: 1.0103249684643796e-07
+MKM MPI: 32 ranks, 31 solver workers
+8.978896551242395e-10
+MKM final best cost: 8.978896551242395e-10
+MKM MPI: 32 ranks, 31 solver workers
+4.7076660196597786e-08
+MKM final best cost: 4.7076660196597786e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.663766769847707e-10
+MKM final best cost: 5.663766769847707e-10
+MKM MPI: 32 ranks, 31 solver workers
+1.820271049389455e-09
+MKM final best cost: 1.820271049389455e-09
+MKM MPI: 32 ranks, 31 solver workers
+3.32674969816338e-07
+3.325200466086876e-07
+1.2939952532523605e-08
+MKM converged on rank 25: cost=1.2939952532523605e-08 -> stopping all ranks
+MKM final best cost: 1.2939952532523605e-08
+MKM MPI: 32 ranks, 31 solver workers
+6.842930256587515e-08
+MKM final best cost: 6.842930256587515e-08
+MKM MPI: 32 ranks, 31 solver workers
+7.591908348711336e-08
+MKM final best cost: 7.591908348711336e-08
+MKM MPI: 32 ranks, 31 solver workers
+9.260887300490479e-08
+MKM final best cost: 9.260887300490479e-08
+MKM MPI: 32 ranks, 31 solver workers
+6.7311780226130795e-09
+MKM final best cost: 6.7311780226130795e-09
+MKM MPI: 32 ranks, 31 solver workers
+7.283825753865267e-09
+MKM final best cost: 7.283825753865267e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.318967597610801e-08
+MKM final best cost: 1.318967597610801e-08
+MKM MPI: 32 ranks, 31 solver workers
+7.474534476757263e-08
+MKM final best cost: 7.474534476757263e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.071822344491179e-09
+MKM final best cost: 4.071822344491179e-09
+MKM MPI: 32 ranks, 31 solver workers
+9.097357287254022e-09
+MKM final best cost: 9.097357287254022e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.9601351857964428e-08
+MKM final best cost: 2.9601351857964428e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.8245915874606668e-08
+MKM final best cost: 1.8245915874606668e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.2213862633095018e-08
+MKM final best cost: 1.2213862633095018e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.070570066044574e-08
+MKM final best cost: 2.070570066044574e-08
+MKM MPI: 32 ranks, 31 solver workers
+6.026678592126708e-10
+MKM final best cost: 6.026678592126708e-10
+MKM MPI: 32 ranks, 31 solver workers
+4.931553240199709e-08
+MKM final best cost: 4.931553240199709e-08
+MKM MPI: 32 ranks, 31 solver workers
+7.108701262757761e-08
+MKM final best cost: 7.108701262757761e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.82451524877418e-09
+MKM final best cost: 2.82451524877418e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.4472295470850975e-09
+MKM final best cost: 1.4472295470850975e-09
+MKM MPI: 32 ranks, 31 solver workers
+7.201127923250893e-08
+MKM final best cost: 7.201127923250893e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.2624080272522412e-09
+MKM final best cost: 2.2624080272522412e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.3322726327939021e-08
+MKM final best cost: 1.3322726327939021e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.0376545780068364e-09
+MKM final best cost: 2.0376545780068364e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.036232037519425e-08
+MKM final best cost: 1.036232037519425e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.880891369563108e-10
+MKM final best cost: 5.880891369563108e-10
+MKM MPI: 32 ranks, 31 solver workers
+3.329829328961636e-08
+MKM final best cost: 3.329829328961636e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.2173479879448967e-09
+MKM final best cost: 1.2173479879448967e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.5201902519341855e-08
+MKM final best cost: 1.5201902519341855e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.0939488953136996e-10
+MKM final best cost: 4.0939488953136996e-10
+MKM MPI: 32 ranks, 31 solver workers
+3.957764363153995e-07
+3.772911516665717e-09
+MKM converged on rank 16: cost=3.772911516665717e-09 -> stopping all ranks
+MKM final best cost: 3.772911516665717e-09
+MKM MPI: 32 ranks, 31 solver workers
+7.583615248452687e-09
+MKM final best cost: 7.583615248452687e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.303853710512804e-08
+MKM final best cost: 2.303853710512804e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.978177919492037e-10
+MKM final best cost: 4.978177919492037e-10
+MKM MPI: 32 ranks, 31 solver workers
+6.380622901360734e-08
+MKM final best cost: 6.380622901360734e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.901188701079916e-08
+MKM final best cost: 4.901188701079916e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.1516010229060322e-07
+MKM final best cost: 1.1516010229060322e-07
+MKM MPI: 32 ranks, 31 solver workers
+3.0079666159578494e-08
+MKM final best cost: 3.0079666159578494e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.722423408653023e-08
+MKM final best cost: 1.722423408653023e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.1411990639968853e-07
+MKM final best cost: 1.1411990639968853e-07
+MKM MPI: 32 ranks, 31 solver workers
+5.080904397452714e-09
+MKM final best cost: 5.080904397452714e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.1341904331123685e-07
+MKM final best cost: 1.1341904331123685e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.3052936422781954e-08
+MKM final best cost: 1.3052936422781954e-08
+MKM MPI: 32 ranks, 31 solver workers
+9.559711817736504e-09
+MKM final best cost: 9.559711817736504e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.7211596482325176e-08
+MKM final best cost: 1.7211596482325176e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.5059655297466437e-08
+MKM final best cost: 2.5059655297466437e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.204813285310925e-09
+MKM final best cost: 4.204813285310925e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.05031598995691e-08
+MKM final best cost: 1.05031598995691e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.3112464466277917e-08
+MKM final best cost: 2.3112464466277917e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.969372873948774e-08
+MKM final best cost: 5.969372873948774e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.221639227743226e-08
+MKM final best cost: 5.221639227743226e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.527320006904105e-08
+MKM final best cost: 5.527320006904105e-08
+MKM MPI: 32 ranks, 31 solver workers
+9.189724311784274e-09
+MKM final best cost: 9.189724311784274e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.6115177267677753e-08
+MKM final best cost: 1.6115177267677753e-08
+MKM MPI: 32 ranks, 31 solver workers
+9.490329760016025e-10
+MKM final best cost: 9.490329760016025e-10
+MKM MPI: 32 ranks, 31 solver workers
+1.1074539402190785e-10
+MKM final best cost: 1.1074539402190785e-10
+MKM MPI: 32 ranks, 31 solver workers
+6.60752181031686e-09
+MKM final best cost: 6.60752181031686e-09
+MKM MPI: 32 ranks, 31 solver workers
+6.344417944427273e-08
+MKM final best cost: 6.344417944427273e-08
+MKM MPI: 32 ranks, 31 solver workers
+3.7492669262051844e-08
+MKM final best cost: 3.7492669262051844e-08
+MKM MPI: 32 ranks, 31 solver workers
+6.399175700599284e-08
+MKM final best cost: 6.399175700599284e-08
+MKM MPI: 32 ranks, 31 solver workers
+7.296208843173202e-08
+MKM final best cost: 7.296208843173202e-08
+MKM MPI: 32 ranks, 31 solver workers
+7.945405026110279e-08
+MKM final best cost: 7.945405026110279e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.748767266786436e-08
+MKM final best cost: 1.748767266786436e-08
+MKM MPI: 32 ranks, 31 solver workers
+3.209007147652661e-08
+MKM final best cost: 3.209007147652661e-08
+MKM MPI: 32 ranks, 31 solver workers
+3.925185469818378e-09
+MKM final best cost: 3.925185469818378e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.0391857604597609e-07
+MKM final best cost: 1.0391857604597609e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.544514689519531e-08
+MKM final best cost: 1.544514689519531e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.5263667242449487e-08
+MKM final best cost: 2.5263667242449487e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.0653078707141835e-08
+MKM final best cost: 4.0653078707141835e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.275267992746223e-08
+MKM final best cost: 4.275267992746223e-08
+MKM MPI: 32 ranks, 31 solver workers
+9.213868398696755e-08
+MKM final best cost: 9.213868398696755e-08
+MKM MPI: 32 ranks, 31 solver workers
+8.121690717840662e-09
+MKM final best cost: 8.121690717840662e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.3578633972741287e-10
+MKM final best cost: 2.3578633972741287e-10
+MKM MPI: 32 ranks, 31 solver workers
+1.5424439883928138e-10
+MKM final best cost: 1.5424439883928138e-10
+MKM MPI: 32 ranks, 31 solver workers
+1.1305575849693467e-07
+MKM final best cost: 1.1305575849693467e-07
+MKM MPI: 32 ranks, 31 solver workers
+6.973003643215423e-08
+MKM final best cost: 6.973003643215423e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.291037457941981e-07
+1.2577308640603447e-09
+MKM converged on rank 22: cost=1.2577308640603447e-09 -> stopping all ranks
+MKM final best cost: 1.2577308640603447e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.576921445295854e-09
+MKM final best cost: 1.576921445295854e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.1588166624850648e-07
+MKM final best cost: 1.1588166624850648e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.9242558193334655e-08
+MKM final best cost: 1.9242558193334655e-08
+MKM MPI: 32 ranks, 31 solver workers
+3.773548144694449e-13
+MKM final best cost: 3.773548144694449e-13
+MKM MPI: 32 ranks, 31 solver workers
+4.3799391730138135e-08
+MKM final best cost: 4.3799391730138135e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.7663366324365555e-09
+MKM final best cost: 2.7663366324365555e-09
+MKM MPI: 32 ranks, 31 solver workers
+4.701903357347957e-09
+MKM final best cost: 4.701903357347957e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.1204184950342014e-07
+MKM final best cost: 1.1204184950342014e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.0995749387299003e-08
+MKM final best cost: 1.0995749387299003e-08
+MKM MPI: 32 ranks, 31 solver workers
+8.136038386606379e-08
+MKM final best cost: 8.136038386606379e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.6614501416767514e-08
+MKM final best cost: 4.6614501416767514e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.8140491622851616e-08
+MKM final best cost: 2.8140491622851616e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.1828899357602921e-07
+MKM final best cost: 1.1828899357602921e-07
+MKM MPI: 32 ranks, 31 solver workers
+2.8185035724092393e-10
+MKM final best cost: 2.8185035724092393e-10
+MKM MPI: 32 ranks, 31 solver workers
+1.6086645446636833e-08
+MKM final best cost: 1.6086645446636833e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.8872441240205448e-08
+MKM final best cost: 2.8872441240205448e-08
+MKM MPI: 32 ranks, 31 solver workers
+3.6990844547732327e-09
+MKM final best cost: 3.6990844547732327e-09
+MKM MPI: 32 ranks, 31 solver workers
+9.125603436341305e-08
+MKM final best cost: 9.125603436341305e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.3085590263112197e-08
+MKM final best cost: 2.3085590263112197e-08
+MKM MPI: 32 ranks, 31 solver workers
+9.333869462950836e-08
+MKM final best cost: 9.333869462950836e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.0242828038756135e-09
+MKM final best cost: 4.0242828038756135e-09
+MKM MPI: 32 ranks, 31 solver workers
+3.597435908156139e-08
+MKM final best cost: 3.597435908156139e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.65114713395756e-08
+MKM final best cost: 5.65114713395756e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.1748606785716031e-07
+MKM final best cost: 1.1748606785716031e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.710587149325749e-08
+MKM final best cost: 1.710587149325749e-08
+MKM MPI: 32 ranks, 31 solver workers
+3.5223107718877936e-09
+MKM final best cost: 3.5223107718877936e-09
+MKM MPI: 32 ranks, 31 solver workers
+9.414358597384421e-09
+MKM final best cost: 9.414358597384421e-09
+MKM MPI: 32 ranks, 31 solver workers
+5.200690837545737e-09
+MKM final best cost: 5.200690837545737e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.4207335639367386e-08
+MKM final best cost: 2.4207335639367386e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.0065669966465118e-08
+MKM final best cost: 1.0065669966465118e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.7996251156742195e-08
+MKM final best cost: 2.7996251156742195e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.498948222325699e-09
+MKM final best cost: 5.498948222325699e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.0651275708244808e-08
+MKM final best cost: 2.0651275708244808e-08
+MKM MPI: 32 ranks, 31 solver workers
+6.82714531574586e-10
+MKM final best cost: 6.82714531574586e-10
+MKM MPI: 32 ranks, 31 solver workers
+2.5191705459526988e-08
+MKM final best cost: 2.5191705459526988e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.6757798452460654e-09
+MKM final best cost: 1.6757798452460654e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.6320168387685776e-09
+MKM final best cost: 2.6320168387685776e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.2543550288355603e-08
+MKM final best cost: 1.2543550288355603e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.102687094836713e-09
+MKM final best cost: 5.102687094836713e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.2979980610909032e-08
+MKM final best cost: 2.2979980610909032e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.4293739848659964e-08
+MKM final best cost: 2.4293739848659964e-08
+MKM MPI: 32 ranks, 31 solver workers
+9.537706230845126e-11
+MKM final best cost: 9.537706230845126e-11
+MKM MPI: 32 ranks, 31 solver workers
+1.1122233142398848e-09
+MKM final best cost: 1.1122233142398848e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.007534276240206e-08
+MKM final best cost: 1.007534276240206e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.6426851147310555e-10
+MKM final best cost: 4.6426851147310555e-10
+MKM MPI: 32 ranks, 31 solver workers
+2.6448264100274226e-08
+MKM final best cost: 2.6448264100274226e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.002524928879718e-08
+MKM final best cost: 2.002524928879718e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.8217601577761193e-08
+MKM final best cost: 1.8217601577761193e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.855183218644113e-09
+MKM final best cost: 4.855183218644113e-09
+MKM MPI: 32 ranks, 31 solver workers
+3.237395524877963e-09
+MKM final best cost: 3.237395524877963e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.7729815230102656e-08
+MKM final best cost: 2.7729815230102656e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.8056050625227082e-08
+MKM final best cost: 1.8056050625227082e-08
+MKM MPI: 32 ranks, 31 solver workers
+6.885301742444209e-11
+MKM final best cost: 6.885301742444209e-11
+MKM MPI: 32 ranks, 31 solver workers
+1.3477661449270932e-08
+MKM final best cost: 1.3477661449270932e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.7755697293646394e-09
+MKM final best cost: 1.7755697293646394e-09
+MKM MPI: 32 ranks, 31 solver workers
+4.703778085289867e-09
+MKM final best cost: 4.703778085289867e-09
+MKM MPI: 32 ranks, 31 solver workers
+3.6016587557454387e-09
+MKM final best cost: 3.6016587557454387e-09
+MKM MPI: 32 ranks, 31 solver workers
+4.953039559229165e-09
+MKM final best cost: 4.953039559229165e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.2034897811190469e-08
+MKM final best cost: 1.2034897811190469e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.66410982081491e-08
+MKM final best cost: 2.66410982081491e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.461474275790722e-09
+MKM final best cost: 5.461474275790722e-09
+MKM MPI: 32 ranks, 31 solver workers
+4.452180600111974e-10
+MKM final best cost: 4.452180600111974e-10
+MKM MPI: 32 ranks, 31 solver workers
+1.9246772986574432e-10
+MKM final best cost: 1.9246772986574432e-10
+MKM MPI: 32 ranks, 31 solver workers
+6.585072463231174e-09
+MKM final best cost: 6.585072463231174e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.5932713533978665e-08
+MKM final best cost: 2.5932713533978665e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.93509630229313e-09
+MKM final best cost: 4.93509630229313e-09
+MKM MPI: 32 ranks, 31 solver workers
+8.209786180000758e-09
+MKM final best cost: 8.209786180000758e-09
+MKM MPI: 32 ranks, 31 solver workers
+3.876037454180181e-09
+MKM final best cost: 3.876037454180181e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.0224358859215056e-08
+MKM final best cost: 1.0224358859215056e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.8654157763121486e-09
+MKM final best cost: 1.8654157763121486e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.7063695824274818e-08
+MKM final best cost: 1.7063695824274818e-08
+MKM MPI: 32 ranks, 31 solver workers
+3.6780987159891944e-09
+MKM final best cost: 3.6780987159891944e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.3040248400762511e-08
+MKM final best cost: 1.3040248400762511e-08
+MKM MPI: 32 ranks, 31 solver workers
+6.171217088315813e-12
+MKM final best cost: 6.171217088315813e-12
+MKM MPI: 32 ranks, 31 solver workers
+1.1179292429298503e-08
+MKM final best cost: 1.1179292429298503e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.761849375700349e-08
+MKM final best cost: 1.761849375700349e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.4566590261648394e-09
+MKM final best cost: 1.4566590261648394e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.4106043704844823e-10
+MKM final best cost: 2.4106043704844823e-10
+MKM MPI: 32 ranks, 31 solver workers
+2.7808411606553082e-08
+MKM final best cost: 2.7808411606553082e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.2499756973045997e-10
+MKM final best cost: 2.2499756973045997e-10
+MKM MPI: 32 ranks, 31 solver workers
+1.5143182895157856e-08
+MKM final best cost: 1.5143182895157856e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.2580884650322474e-08
+MKM final best cost: 2.2580884650322474e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.5991567755344148e-08
+MKM final best cost: 2.5991567755344148e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.132950440509994e-09
+MKM final best cost: 5.132950440509994e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.4312338134003376e-08
+MKM final best cost: 1.4312338134003376e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.7471816580730034e-09
+MKM final best cost: 4.7471816580730034e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.937617398025092e-08
+MKM final best cost: 1.937617398025092e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.0442214368051238e-11
+MKM final best cost: 1.0442214368051238e-11
+MKM MPI: 32 ranks, 31 solver workers
+2.8556834315548905e-08
+MKM final best cost: 2.8556834315548905e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.01537755990503e-09
+MKM final best cost: 2.01537755990503e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.326794975911325e-08
+MKM final best cost: 2.326794975911325e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.8371823132479477e-08
+MKM final best cost: 2.8371823132479477e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.0652789980194056e-08
+MKM final best cost: 1.0652789980194056e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.1844877721010156e-07
+MKM final best cost: 1.1844877721010156e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.2095727819781165e-08
+MKM final best cost: 1.2095727819781165e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.2860393157938296e-08
+MKM final best cost: 2.2860393157938296e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.097006771962027e-08
+MKM final best cost: 1.097006771962027e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.5029282814096348e-08
+MKM final best cost: 1.5029282814096348e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.1775415116109018e-09
+MKM final best cost: 2.1775415116109018e-09
+MKM MPI: 32 ranks, 31 solver workers
+8.672365082247257e-09
+MKM final best cost: 8.672365082247257e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.4870694332777781e-08
+MKM final best cost: 1.4870694332777781e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.3528362802668462e-08
+MKM final best cost: 1.3528362802668462e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.617731377164975e-08
+MKM final best cost: 2.617731377164975e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.1167930543954099e-09
+MKM final best cost: 1.1167930543954099e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.275218810285725e-08
+MKM final best cost: 1.275218810285725e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.925724410775475e-10
+MKM final best cost: 1.925724410775475e-10
+MKM MPI: 32 ranks, 31 solver workers
+6.802615133018839e-10
+MKM final best cost: 6.802615133018839e-10
+MKM MPI: 32 ranks, 31 solver workers
+2.3103717241166267e-08
+MKM final best cost: 2.3103717241166267e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.290216721215499e-08
+MKM final best cost: 2.290216721215499e-08
+MKM MPI: 32 ranks, 31 solver workers
+3.173970961552592e-11
+MKM final best cost: 3.173970961552592e-11
+MKM MPI: 32 ranks, 31 solver workers
+2.192929637730561e-08
+MKM final best cost: 2.192929637730561e-08
+MKM MPI: 32 ranks, 31 solver workers
+2.4543244678486833e-08
+MKM final best cost: 2.4543244678486833e-08
+MKM MPI: 32 ranks, 31 solver workers
+7.133663568567357e-09
+MKM final best cost: 7.133663568567357e-09
+MKM MPI: 32 ranks, 31 solver workers
+9.773610376926571e-12
+MKM final best cost: 9.773610376926571e-12
+MKM MPI: 32 ranks, 31 solver workers
+5.4445683492644816e-09
+MKM final best cost: 5.4445683492644816e-09
+MKM MPI: 32 ranks, 31 solver workers
+8.706448045049298e-09
+MKM final best cost: 8.706448045049298e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.4005709255849958e-08
+MKM final best cost: 1.4005709255849958e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.414077516033554e-10
+MKM final best cost: 5.414077516033554e-10
+MKM MPI: 32 ranks, 31 solver workers
+7.3318902938601614e-09
+MKM final best cost: 7.3318902938601614e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.8039271386094317e-09
+MKM final best cost: 1.8039271386094317e-09
+MKM MPI: 32 ranks, 31 solver workers
+5.338132573635905e-09
+MKM final best cost: 5.338132573635905e-09
+MKM MPI: 32 ranks, 31 solver workers
+4.917844338843918e-09
+MKM final best cost: 4.917844338843918e-09
+MKM MPI: 32 ranks, 31 solver workers
+3.1001445303358127e-09
+MKM final best cost: 3.1001445303358127e-09
+MKM MPI: 32 ranks, 31 solver workers
+5.721638139248524e-09
+MKM final best cost: 5.721638139248524e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.0016857057662903e-11
+MKM final best cost: 2.0016857057662903e-11
+MKM MPI: 32 ranks, 31 solver workers
+5.8300835491848e-13
+MKM final best cost: 5.8300835491848e-13
+MKM MPI: 32 ranks, 31 solver workers
+4.338546244118989e-09
+MKM final best cost: 4.338546244118989e-09
+MKM MPI: 32 ranks, 31 solver workers
+3.952139756133351e-09
+MKM final best cost: 3.952139756133351e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.921972347548643e-09
+MKM final best cost: 1.921972347548643e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.4073636340167082e-09
+MKM final best cost: 1.4073636340167082e-09
+MKM MPI: 32 ranks, 31 solver workers
+3.426626450522069e-10
+MKM final best cost: 3.426626450522069e-10
+MKM MPI: 32 ranks, 31 solver workers
+8.592694430821052e-11
+MKM final best cost: 8.592694430821052e-11
+MKM MPI: 32 ranks, 31 solver workers
+2.634733819265971e-09
+MKM final best cost: 2.634733819265971e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.5303310755648347e-09
+MKM final best cost: 2.5303310755648347e-09
+MKM MPI: 32 ranks, 31 solver workers
+0.20864012491802691
+3.324807526259192e-08
+MKM converged on rank 15: cost=3.324807526259192e-08 -> stopping all ranks
+MKM final best cost: 3.324807526259192e-08
+MKM MPI: 32 ranks, 31 solver workers
+1.5727025981940196e-09
+MKM final best cost: 1.5727025981940196e-09
+MKM MPI: 32 ranks, 31 solver workers
+3.91319824121999e-09
+MKM final best cost: 3.91319824121999e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.3008319403374565e-08
+MKM final best cost: 1.3008319403374565e-08
+MKM MPI: 32 ranks, 31 solver workers
+4.640553220523209e-09
+MKM final best cost: 4.640553220523209e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.0255619963861744e-09
+MKM final best cost: 1.0255619963861744e-09
+MKM MPI: 32 ranks, 31 solver workers
+2.2041225074130127e-09
+MKM final best cost: 2.2041225074130127e-09
+MKM MPI: 32 ranks, 31 solver workers
+1.2598175864776612e-09
+MKM final best cost: 1.2598175864776612e-09
+MKM MPI: 32 ranks, 31 solver workers
+3.4996764647397444e-11
+MKM final best cost: 3.4996764647397444e-11
+MKM MPI: 32 ranks, 31 solver workers
+3.1677402966349765e-10
+MKM final best cost: 3.1677402966349765e-10
+MKM MPI: 32 ranks, 31 solver workers
+2.2433724723118015e-07
+MKM final best cost: 2.2433724723118015e-07
+MKM MPI: 32 ranks, 31 solver workers
+1.7302888562467239e-07
+MKM final best cost: 1.7302888562467239e-07
+MKM MPI: 32 ranks, 31 solver workers
+3.307370589463114e-08
+MKM final best cost: 3.307370589463114e-08
+MKM MPI: 32 ranks, 31 solver workers
+5.796109490327926e-07
+3.2166001773235733e-07
+3.017359943328748e-07
+1.0220391069304476e-08
+MKM converged on rank 17: cost=1.0220391069304476e-08 -> stopping all ranks
+MKM final best cost: 1.0220391069304476e-08
+MKM MPI: 32 ranks, 31 solver workers
+9.82272835122549e-07
+7.35241356240608e-08
+MKM converged on rank 7: cost=7.35241356240608e-08 -> stopping all ranks
+MKM final best cost: 7.35241356240608e-08
+MKM MPI: 32 ranks, 31 solver workers
+9.65461343390298e-10
+MKM final best cost: 9.65461343390298e-10
+MKM MPI: 32 ranks, 31 solver workers
+1.5469104239560634e-09
+MKM final best cost: 1.5469104239560634e-09
+MKM MPI: 32 ranks, 31 solver workers
+7.895408517930775e-10
+MKM final best cost: 7.895408517930775e-10
+MKM MPI: 32 ranks, 31 solver workers
+6.623964301129806e-08
+MKM final best cost: 6.623964301129806e-08

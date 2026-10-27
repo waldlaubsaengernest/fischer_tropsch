@@ -1,0 +1,19 @@
+[{'user_api': 'blas', 'internal_api': 'openblas', 'num_threads': 1, 'prefix': 'libscipy_openblas', 'filepath': '/home/cat/bengr/.local/lib/python3.13/site-packages/numpy.libs/libscipy_openblas64_-017048f4.so', 'version': '0.3.33.112.0', 'threading_layer': 'pthreads', 'architecture': 'Haswell'}, {'user_api': 'blas', 'internal_api': 'openblas', 'num_threads': 1, 'prefix': 'libscipy_openblas', 'filepath': '/home/cat/bengr/.local/lib/python3.13/site-packages/scipy.libs/libscipy_openblas-5f890258.so', 'version': '0.3.31.dev', 'threading_layer': 'pthreads', 'architecture': 'Haswell'}]
+MKM MPI: 24 ranks, 23 solver workers
+1.0584929852037066e+22
+130913.63729869697
+5962.2069163605465
+1242.7705658898706
+2.5300871251520203e-09
+MKM converged on rank 17: cost=2.5300871251520203e-09 -> stopping all ranks
+MKM final best cost: 2.5300871251520203e-09
+N   theta_CO*  theta_H*  theta_CH*  theta_C*  theta_CCH3*  theta_OH*  theta_CCH2*  theta_CCH*  theta_CHCCH3*  theta_COH*  theta_CCCH3*
+Ru  0.98       0.97      0.97       0.34      0.02         0.01       8.4e-05      5.0e-05     6.5e-07        2.5e-07     1.0e-11     
+
+N   theta_CH4*  rate(CO)  rate(H2)  rate(C3H8)  rate(CH4)  selectivity
+Ru  0.00        -290.51   -340.31   286.36      4.15       98.57      
+N   theta_CO*  theta_H*  theta_CH*  theta_C*  theta_CCH3*  theta_OH*  theta_CCH2*  theta_CCH*  theta_CHCCH3*  theta_COH*  theta_CCCH3*
+Ru  0.98       0.97      0.97       0.34      0.02         0.01       8.4e-05      5.0e-05     6.5e-07        2.5e-07     1.0e-11     
+
+N   theta_CH4*  rate(CO)  rate(H2)  rate(C3H8)  rate(CH4)  selectivity
+Ru  0.00        -290.51   -340.31   286.36      4.15       98.57      

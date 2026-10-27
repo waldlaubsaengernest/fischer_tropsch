@@ -1,0 +1,16 @@
+[{'user_api': 'blas', 'internal_api': 'openblas', 'num_threads': 1, 'prefix': 'libscipy_openblas', 'filepath': '/home/cat/bengr/.local/lib/python3.13/site-packages/numpy.libs/libscipy_openblas64_-017048f4.so', 'version': '0.3.33.112.0', 'threading_layer': 'pthreads', 'architecture': 'Haswell'}, {'user_api': 'blas', 'internal_api': 'openblas', 'num_threads': 1, 'prefix': 'libscipy_openblas', 'filepath': '/home/cat/bengr/.local/lib/python3.13/site-packages/scipy.libs/libscipy_openblas-5f890258.so', 'version': '0.3.31.dev', 'threading_layer': 'pthreads', 'architecture': 'Haswell'}]
+MKM MPI: 24 ranks, 23 solver workers
+5.380704675034064e-06
+4.169093282715564e-07
+MKM converged on rank 18: cost=4.169093282715564e-07 -> stopping all ranks
+MKM final best cost: 4.169093282715564e-07
+N   theta_H*  theta_O*  theta_CO*  theta_CH*  theta_C*  theta_OH*  theta_CCH3*  theta_CCH2*  theta_CCH*  theta_H2O*
+Co  0.99      0.83      0.13       0.08       0.05      0.05       1.2e-04      3.3e-05      5.3e-07     5.6e-13   
+
+N   theta_CCCH3*  rate(CO)  rate(H2)  rate(C3H8)  rate(CH4)  selectivity
+Co  1.1e-13       -6.07     -7.96     3.41        2.66       56.17      
+N   theta_H*  theta_O*  theta_CO*  theta_CH*  theta_C*  theta_OH*  theta_CCH3*  theta_CCH2*  theta_CCH*  theta_H2O*
+Co  0.99      0.83      0.13       0.08       0.05      0.05       1.2e-04      3.3e-05      5.3e-07     5.6e-13   
+
+N   theta_CCCH3*  rate(CO)  rate(H2)  rate(C3H8)  rate(CH4)  selectivity
+Co  1.1e-13       -6.07     -7.96     3.41        2.66       56.17      

@@ -1,0 +1,6 @@
+.git
+.pyc
+src/fischer_tropsch.egg-info
+src/fischer_tropsch/__pycache__
+pyproject.toml
+venv
