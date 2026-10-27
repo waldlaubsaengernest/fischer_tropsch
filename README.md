@@ -3,8 +3,8 @@
 ## Clone the repository
 
 ```bash
-git clone https://link
-cd fischer_tropsch_1
+git clone https://github.com/waldlaubsaengernest/fischer_tropsch
+cd fischer_tropsch
 ```
 
 ## Create a Python virtual environment
